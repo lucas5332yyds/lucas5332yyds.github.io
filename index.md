@@ -1,6 +1,7 @@
 # 欢迎使用永轩开服器！
 ## 下载：
-[点我](https://jq.qq.com/?_wv=1027&k=y6Byl2XV)
+[点我进入用户群下载快照版本](https://jq.qq.com/?_wv=1027&k=y6Byl2XV)
+[下载正式版](https://share.weiyun.com/oUdbuuta)
 ## 功能：
 查看ip，开服……
 ## 下载服务端：
