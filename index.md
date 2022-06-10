@@ -12,6 +12,7 @@
 1.16.5:[官方源](https://launcher.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar)
 1.12.2:[官方源](https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar)
 1.8.9:[官方源](https://launcher.mojang.com/v1/objects/b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd/server.jar)
+更多服务端正在持续上新中
 ## 版本历史：
 1.0：ip获取，官网
 beta2：帮助菜单
