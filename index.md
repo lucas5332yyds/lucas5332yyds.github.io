@@ -1,7 +1,7 @@
 # 欢迎使用永轩开服器！
 ## 下载：
 [点我进入用户群下载快照版本](https://jq.qq.com/?_wv=1027&k=nb5rKtEi)
-[下载正式版（未完成）](https://notfinish)
+[下载正式版（未开放）](https://notfinish)
 ## 功能：
 开服
 ## 下载服务端：
